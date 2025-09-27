@@ -46,7 +46,7 @@ nav a:hover {
   }
 
   .product-card:hover {
-    transform: scale(1.02);
+    transform: scale(1.1);
   }
 
   .product-card img {
@@ -88,4 +88,5 @@ nav a:hover {
 
   .buy-button:hover {
     background: #0056b3;
+
   }
